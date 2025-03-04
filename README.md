@@ -1,5 +1,5 @@
 # Amazon Sales Analysis Dashboard
-
+![Image](https://github.com/user-attachments/assets/d6b86c59-5bf0-4cc9-b124-f7fc7c346d11)
 
 ## Overview
 This project involves analyzing Amazon sales data using Power BI to create an interactive dashboard. The dashboard provides insights into various sales metrics, including courier status, category-wise sales, fulfillment details, delivery partners, and product sizes.
